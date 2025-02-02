@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Roberto! 👋
 
-<!--
-**7Robert/7robert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Project Manager** e **Ingeniero en Informática** con sólida experiencia en **DevOps, desarrollo backend y gestión de bases de datos**. Me apasiona combinar la estrategia y la ejecución técnica para lograr proyectos exitosos.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Gestión de Proyectos:** Experiencia liderando equipos y coordinando proyectos complejos.
+- 🛠 **DevOps:** Conocimiento en integración y entrega continua, automatización y administración de infraestructuras.
+- 💻 **Backend:** Desarrollo de APIs, microservicios y arquitecturas escalables.
+- 🤖 **Inteligencia Artificial:** Experto en la integración y uso de APIs de IA para automatizar tareas y procesos, optimizando flujos de trabajo y mejorando la eficiencia.
+- 💼 **Desarrollo de Software:** Más de 9 años desarrollando soluciones tecnológicas en diversos sectores.
+
+## Contacto
+
+- 📧 [vieira7roberto@gmail.com](mailto:vieira7roberto@gmail.com)
