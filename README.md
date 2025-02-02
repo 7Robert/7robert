@@ -1,15 +1,15 @@
-# ¡Hola, soy Roberto! 👋
+# Hello, I'm Roberto! 👋
 
-Soy **Project Manager** e **Ingeniero en Informática** con sólida experiencia en **DevOps, desarrollo backend y gestión de bases de datos**. Me apasiona combinar la estrategia y la ejecución técnica para lograr proyectos exitosos.
+I am a **Project Manager** and **Computer Engineer** with solid experience in **DevOps, backend development, and database management**. I am passionate about combining strategy with technical execution to achieve successful projects.
 
-## Sobre mí
+## About Me
 
-- 📊 **Gestión de Proyectos:** Experiencia liderando equipos y coordinando proyectos complejos.
-- 🛠 **DevOps:** Conocimiento en integración y entrega continua, automatización y administración de infraestructuras.
-- 💻 **Backend:** Desarrollo de APIs, microservicios y arquitecturas escalables.
-- 🤖 **Inteligencia Artificial:** Experto en la integración y uso de APIs de IA para automatizar tareas y procesos, optimizando flujos de trabajo y mejorando la eficiencia.
-- 💼 **Desarrollo de Software:** Más de 9 años desarrollando soluciones tecnológicas en diversos sectores.
+- 📊 **Project Management:** Experience leading teams and coordinating complex projects.
+- 🛠 **DevOps:** Knowledge in integration and continuous delivery, automation, and infrastructure management.
+- 💻 **Backend:** Development of APIs, microservices, and scalable architectures.
+- 🤖 **Artificial Intelligence:** Expert in integrating and using AI APIs to automate tasks and processes, optimizing workflows and enhancing efficiency.
+- 💼 **Software Development:** Over 9 years of developing technological solutions across various sectors.
 
-## Contacto
+## Contact
 
 - 📧 [vieira7roberto@gmail.com](mailto:vieira7roberto@gmail.com)
