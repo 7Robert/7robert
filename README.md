@@ -1,4 +1,4 @@
-# Hello, I'm Roberto! *(CyberWolf)* 👋
+# Hello, I'm Roberto! 👋
 
 I am a **Project Manager** and **Computer Engineer** with solid experience in **DevOps, backend development, and database management**. I am passionate about combining strategy with technical execution to achieve successful projects.
 
