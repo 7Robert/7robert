@@ -18,7 +18,7 @@
 
   ## Tech
 
-  Docker · Node.js · Python · JavaScript · PostgreSQL · MongoDB · Redis · Git · GitHub · Nginx · Caddy · Grafana
+  Docker · Node.js · Python · JavaScript · PostgreSQL · MongoDB · Redis · Git · GitHub · Nginx · Caddy · Grafana · OpenAI/Codex · Claude
 
   ## Work
 
