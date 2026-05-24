@@ -1,20 +1,33 @@
-# Hello, I'm Roberto! 👋
+# Roberto Perez Vieira
 
-I am a **Project Manager** and **Computer Engineer** with solid experience in **DevOps, backend development, and database management**. I am passionate about combining strategy with technical execution to achieve successful projects.
+  Co-founder & CTO focused on software architecture, DevOps, web/mobile products, infrastructure and AI-assisted
+  engineering.
 
-## About Me
+  I design, build, deploy and operate software products across backend, web, mobile and infrastructure environments. My work
+  combines hands-on development, technical leadership, DevOps, database systems and product-oriented engineering management.
 
-- 💼 **Software Development:** Over 9 years of developing technological solutions across various sectors.
-  
-- 📊 **Project Management:** Experience leading teams and coordinating complex projects.
-  
-- 🛠 **DevOps:** Knowledge in integration and continuous delivery, automation, and infrastructure management.
-  
-- 💻 **Backend:** Development of APIs, microservices, and scalable architectures.
-  
-- 🤖 **Artificial Intelligence:** Expert in integrating and using AI APIs to automate tasks and processes, optimizing workflows and enhancing efficiency.
-  
-- 📈 Financial Algorithms & Algotrading: Expert in developing robust financial algorithms, implementing algotrading strategies, and ensuring top-notch data quality for financial applications. I specialize in programming solutions tailored to the dynamic needs of the financial world.
-  
-## Contact
-- 📧 [vieira7roberto@gmail.com](mailto:vieira7roberto@gmail.com)
+  ## Focus
+
+  - Software architecture
+  - Engineering leadership
+  - DevOps and infrastructure
+  - Backend systems
+  - Web and mobile products
+  - Production delivery
+  - AI-assisted engineering workflows
+
+  ## Tech
+
+  Docker · Node.js · Python · JavaScript · PostgreSQL · MongoDB · Redis · Git · GitHub · Nginx · Caddy · Grafana
+
+  ## Work
+
+  - Co-founder & CTO at Envision Technologies
+  - Co-founder of Envision Signals
+  - DevOps & Engineering Team Manager at SPOZZ.club
+  - Co-founder of Codevising
+
+  ## Links
+
+  - Portfolio: https://robertoperezvieira.com/
+  - LinkedIn: https://www.linkedin.com/in/7robert/
