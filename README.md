@@ -7,7 +7,7 @@ I build software, infrastructure, and AI-enabled systems, with ten years of expe
 ### Current work
 
 - **Envision Technologies** — Co-founder & CTO. Software architecture, trading and investment systems, process automation, and AI integration.
-- **Libra Investment Advisors** — Co-founder & CTO. Technology for investment management, portfolio workflows, and institutional platforms.
+- **Libra Investment Advisors** — CTO. Technology for investment management, portfolio workflows, and institutional platforms.
 - **SPOZZ** — DevOps & Engineering Team Manager. Platform engineering, backend services, infrastructure, and production operations.
 
 ### Engineering focus
